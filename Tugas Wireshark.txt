@@ -1,0 +1,15 @@
+1. Througput:jumlah paket yg diterima(bytes):waktu pengiriman(time span)*8
+             486297/426271=1140,8165 bytes * 8=9126,5321 bit
+
+2. Delay (Latency):time2 - time1 
+                  = 61.012.880
+
+3. Jitter: delay2 - delay1 
+          =114.274.075
+
+4. Error / packet lost:((paket data dikirim (packets) - paket yang diterima (displayed) * 100) / paket data dikirim
+                      =((1934-1934)*100)/1934 
+                      = 0*100/1934= 0/1934=0
+
+
+
